@@ -1,23 +1,23 @@
 {
-  "posts": [
+  "cars": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "description": "Tata Altroz with all original documents",
+      "price": 500000
     },
     {
-      "name": "",
-      "place": "",
-      "batch_name": "",
-      "profession": "",
+      "brand": "Tata",
+      "type": "manual",
+      "year": "2020",
+      "kms": "1000",
+      "description": "mast",
+      "price": "10000",
+      "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/KWID/8914/1658228563640/front-left-side-47.jpg?impolicy=resize&imwidth=480",
       "id": 2
-    },
-    {
-      "name": "gg",
-      "place": "vbb",
-      "batch_name": "fff",
-      "profession": "ffgfg",
-      "id": 3
     }
   ]
 }
